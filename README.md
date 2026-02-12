@@ -60,7 +60,8 @@ print("R =\n", R)
 
 ## Output
 ```
-<img width="1920" height="1080" alt="Screenshot 2026-02-12 083229" src="https://github.com/user-attachments/assets/84ec319f-d30c-403f-bfbd-9e7eb071a0bc" />
+<img width="1920" height="1080" alt="Screenshot 2026-02-12 083229" src="https://github.com/user-attachments/assets/165ee5ac-f9fb-4122-a6dd-a8de2ee7a222" />
+
 
 
 ```
